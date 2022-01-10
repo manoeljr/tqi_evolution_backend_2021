@@ -47,8 +47,6 @@ funcionalidades:
       Não se preocupe, porque não existe certo ou errado. Só queremos conhecer um pouco mais sobre você.
     * Utilize o GitHub para repositório de código.
 
- Quando finalizar, você deve criar uma tag no GitHub chamada tqi_evolution_avaliacao. 
- Desta forma, nosso time já irá avaliar o material final.
 
 ### Tecnologias envolvidas
 
